@@ -79,6 +79,4 @@ Project_Root
 
 
 ## License
-[HUST-Theme-PPT](https://github.com/LSTM-zhul/HUST-PPT) © 2025 by [LSTM-zhul](https://github.com/LSTM-zhul) under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[HUST-Theme-PPT](https://github.com/LSTM-zhul/HUST-PPT) © 2025 by [LSTM-zhul](https://github.com/LSTM-zhul) under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
