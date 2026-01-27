@@ -4,6 +4,20 @@
 
 ## View
 
+比例4-3:扁平、顶边、留边和变体。
+<div align="center">
+  <a href="./0figures/demo4-3.png">
+    <img src="./0figures/demo4-3.png" width="100%" alt="4:3 Panorama">
+  </a>
+</div>
+
+比例16—9:v1扁平、v1顶边、v1留边、v2扁平、v3顶边白底、v3留边白底
+<div align="center">
+  <a href="./0figures/demo16-9.png">
+    <img src="./0figures/demo16-9.png" width="100%" alt="16:9 Panorama">
+  </a>
+</div>
+
 ## 📂 structure
 
 本仓库包含 HUST 简约主题模板、相关设计素材以及实验性变体。
