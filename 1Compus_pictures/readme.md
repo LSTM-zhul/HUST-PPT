@@ -1,5 +1,16 @@
-校园美图文件夹  
-https://www.hust.edu.cn/zjhkd/xyfg/qb.htm  
-https://hust.edu.cn/index/sjhkd/a2025.htm  
-https://www.vcg.com/creative-image/huazhongkejidaxue/  
-注：视觉中国文件夹下的图片有水印
+# 校园美图文件夹
+
+这个文件夹存放了华中科技大学（HUST）的校园美景图片，旨在收集和分享校园风光。图片来源于官方和第三方网站，请注意版权和水印问题。
+
+## 图片来源
+- [华中科技大学 - 校园风光全景](https://www.hust.edu.cn/zjhkd/xyfg/qb.htm)
+- [华中科技大学 - 2025 校园活动](https://hust.edu.cn/index/sjhkd/a2025.htm)
+- [视觉中国 - 华中科技大学相关图片](https://www.vcg.com/creative-image/huazhongkejidaxue/)
+
+## 注意事项
+- **水印问题**：视觉中国文件夹下的图片带有水印。如果需要无水印版本，请从官方来源获取或购买授权。
+- **版权声明**：所有图片版权归原作者或网站所有。本文件夹仅用于个人学习和非商业用途。请勿用于商业目的或未经授权的传播。
+- **更新信息**：最后更新日期：2026-02-03。
+
+
+如果您有更多图片来源或建议，欢迎贡献！
